@@ -15,19 +15,27 @@ Password - Admin
 
 Main Features are:
 
-School
-Department
-Voters' Registration
-Aspirants' Registration
-Ballot
-Voters' Accreditation
-Election Setting
-Election Summary
-Voters' Log
-Records
-Imports
-Reports etc.
+    School
+    Department
+    Voters' Registration
+    Aspirants' Registration
+    Ballot
+    Voters' Accreditation
+    Election Setting
+    Election Summary
+    Voters' Log
+    Records
+    Imports
+    Reports etc.
 
 note: Source Code is only available for educational purpose, please don't use it for commercial purpose without the permission of the original author
 
-For students or anyone else who needs program or source code for thesis writing or any Professional Software Development at affordable cost, contact me at Email: adegoketaiwobashir@gmail.com Twitter- www.twitter.com/Dee_Programmer WhatsApp - +2348143805381 Contact Number - +2348143805381
+For students or anyone else who needs program or source code for thesis writing or any Professional Software Development at affordable cost, contact me at
+
+Email: adegoketaiwobashir@gmail.com
+
+Twitter- www.twitter.com/Dee_Programmer
+
+WhatsApp - +2348143805381
+
+Contact Number - +2348143805381
