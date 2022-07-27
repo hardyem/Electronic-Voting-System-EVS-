@@ -5,7 +5,7 @@ This Project is developed using VB.Net and SQL Server 2014 database as back end.
 
 Installation Procedure
 
-Download and Extract the EVS.zip file on your computer, then locate the database folder and then run HMS_Script.sql file in your SQL Server Manager to create the new database and all tables
+Download and Extract the EVS.zip file on your computer, then locate the database folder and then run EVS_Script.sql file in your SQL Server Manager to create the new database and all tables
 
 Login Details
 
@@ -15,7 +15,18 @@ Password - Admin
 
 Main Features are:
 
-
+School
+Department
+Voters' Registration
+Aspirants' Registration
+Ballot
+Voters' Accreditation
+Election Setting
+Election Summary
+Voters' Log
+Records
+Imports
+Reports etc.
 
 note: Source Code is only available for educational purpose, please don't use it for commercial purpose without the permission of the original author
 
